@@ -3,7 +3,9 @@
 
 <div align="center">
 
-![logo](https://user-images.githubusercontent.com/3129134/163255685-857aa780-880f-4c09-b08c-4b53bf4af54d.png)
+[INSERT YOUR LOGO IMAGE HERE (IF APPLICABLE)]
+<!-- ☝️ Replace with your logo (if applicable) via ![](https://uri-to-your-logo-image) ☝️ -->
+<!-- ☝️ If you see logo rendering errors, make sure you're not using indentation, or try an HTML IMG tag -->
 
 <h1 align="center">[INSERT YOUR REPO / PROJ NAME HERE]</h1>
 <!-- ☝️ Replace with your repo name ☝️ -->
@@ -15,7 +17,7 @@
 
 <!-- Header block for project -->
 
-[INSERT YOUR BADGES HERE (SEE: https://shields.io)] [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md) [![SLIM](https://img.shields.io/badge/Best%20Practices%20from-SLIM-blue)](https://nasa-ammos.github.io/slim/)
+[INSERT YOUR BADGES HERE (SEE: https://shields.io)] [![SLIM](https://img.shields.io/badge/Best%20Practices%20from-SLIM-blue)](https://nasa-ammos.github.io/slim/)
 <!-- ☝️ Add badges via: https://shields.io e.g. ![](https://img.shields.io/github/your_chosen_action/your_org/your_repo) ☝️ -->
 
 [INSERT SCREENSHOT OF YOUR SOFTWARE, IF APPLICABLE]
@@ -114,11 +116,31 @@ No questions yet. Propose a question to be added here by reaching out to our con
 
 ## Contributing
 
+[INSERT LINK TO CONTRIBUTING GUIDE OR FILL INLINE HERE]
+<!-- example link to CONTRIBUTING.md>
 Interested in contributing to our project? Please see our: [CONTRIBUTING.md](CONTRIBUTING.md)
+-->
+
+<!-- example inline contributing guide>
+1. Create an GitHub issue ticket describing what changes you need (e.g. issue-1)
+2. [Fork](INSERT LINK TO YOUR REPO FORK PAGE HERE, e.g. https://github.com/my_org/my_repo/fork) this repo
+3. Make your modifications in your own fork
+4. Make a pull-request in this repo with the code in your fork and tag the repo owner / largest contributor as a reviewer
+
+**Working on your first pull request?** See guide: [How to Contribute to an Open Source Project on GitHub](https://kcd.im/pull-request)
+-->
+
+[INSERT LINK TO YOUR CODE_OF_CONDUCT.md OR SHARE TEXT HERE]
+<!-- example link to CODE_OF_CONDUCT.md>
+For guidance on how to interact with our team, please see our code of conduct located at: [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)
+-->
+
+<!-- ☝️ Replace with a text describing how people may contribute to your project, or link to your contribution guide directly ☝️ -->
 
 ## License
 
 See our: [LICENSE](LICENSE)
+<!-- ☝️ Replace with the text of your copyright and license, or directly link to your license file ☝️ -->
 
 ## Support
 
