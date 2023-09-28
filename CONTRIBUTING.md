@@ -299,7 +299,7 @@ Additionally, take a look at Google's recommendations on [inline code documentat
 
 #### Media
 
-Media, such as such as images, videos, sound files, etc., are an excellent way to explain documentation to a wider audience more easily. Include media in your contributions as often as possible.
+Media, such as images, videos, sound files, etc., are an excellent way to explain documentation to a wider audience more easily. Include media in your contributions as often as possible.
 
 When including media into our version-control system, it is recommended to use formats such as:
 - Diagrams: [Mermaid](https://mermaid-js.github.io/mermaid/#/) format
