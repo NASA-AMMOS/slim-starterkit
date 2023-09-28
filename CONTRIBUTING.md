@@ -50,15 +50,6 @@ Our communication channels are:
 - [Discussion board]([INSERT LINK TO DISCUSSION BOARD OR MAILING LIST]) - an permanently archived place to hold conversations related to our project, and to propose as well as show+tell topics to the contributor team. This resource can be searched for old discussions.
 - [INSERT ADDITIONAL COMMUNICATION CHANNELS FOR YOUR PROJECT, EX: SLACK, TWITTER, YOUTUBE, ETC.]
 
-### Communication Channels
-
-Before contributing changes to our project, it's a great idea to be familiar with our communication channels and to socialize your potential contributions to get feedback early. This will help give you context for your contributions, no matter their form.
-
-Our communication channels are:
-- [Issue tracking system]([INSERT LINK TO ISSUE TRACKING SYSTEM]) - a regularly monitored area to report issues with our software or propose changes
-- [Discussion board](INSERT LINK TO DISCUSSION BOARD OR MAILING LIST) - an permanently archived place to hold conversations related to our project, and to propose as well as show+tell topics to the contributor team. This resource can be searched for old discussions.
-- [INSERT ADDITIONAL COMMUNICATION CHANNELS FOR YOUR PROJECT, EX: SLACK, TWITTER, YOUTUBE, ETC.]
-
 ## Our Development Process
 
 Our project integrates contributions from many people, and so we'd like to outline a process you can use to visualize how your contributions may be integrated if you provide something. 
@@ -308,7 +299,7 @@ Additionally, take a look at Google's recommendations on [inline code documentat
 
 #### Media
 
-Media, such as such as images, videos, sound files, etc., are an excellent way to explain documentation to a wider audience more easily. Include media in your contributions as often as possible.
+Media, such as images, videos, sound files, etc., are an excellent way to explain documentation to a wider audience more easily. Include media in your contributions as often as possible.
 
 When including media into our version-control system, it is recommended to use formats such as:
 - Diagrams: [Mermaid](https://mermaid-js.github.io/mermaid/#/) format
