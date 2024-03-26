@@ -28,7 +28,7 @@
 
 [INSERT LIST OF IMPORTANT PROJECT / REPO LINKS HERE]
 <!-- example links>
-[Website]([INSERT WEBSITE LINK HERE]) | [Docs/Wiki]([INSERT DOCS/WIKI SITE LINK HERE]) | [Discussion Board]([INSERT DISCUSSION BOARD LINK HERE]) | [Issue Tracker]([INSERT ISSUE TRACKER LINK HERE])
+[Website](INSERT WEBSITE LINK HERE) | [Docs/Wiki](INSERT DOCS/WIKI SITE LINK HERE) | [Discussion Board](INSERT DISCUSSION BOARD LINK HERE) | [Issue Tracker](INSERT ISSUE TRACKER LINK HERE)
 -->
 
 ## Features
@@ -123,7 +123,7 @@ Interested in contributing to our project? Please see our: [CONTRIBUTING.md](CON
 
 <!-- example inline contributing guide>
 1. Create an GitHub issue ticket describing what changes you need (e.g. issue-1)
-2. [Fork]([INSERT LINK TO YOUR REPO FORK PAGE HERE, e.g. https://github.com/my_org/my_repo/fork]) this repo
+2. [Fork](INSERT LINK TO YOUR REPO FORK PAGE HERE, e.g. https://github.com/my_org/my_repo/fork) this repo
 3. Make your modifications in your own fork
 4. Make a pull-request in this repo with the code in your fork and tag the repo owner / largest contributor as a reviewer
 
@@ -152,7 +152,7 @@ See our: [LICENSE](LICENSE)
 [INSERT CONTACT INFORMATION OR PROFILE LINKS TO MAINTAINERS AMONG COMMITTER LIST]
 
 <!-- example list of contacts>
-Key points of contact are: [@github-user-1]([INSERT LINK TO GITHUB PROFILE]) [@github-user-2]([INSERT LINK TO GITHUB PROFILE])
+Key points of contact are: [@github-user-1](link to github profile) [@github-user-2](link to github profile)
 -->
 
 <!-- ☝️ Replace with the key individuals who should be contacted for questions ☝️ -->
