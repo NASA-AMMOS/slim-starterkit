@@ -1,24 +1,10 @@
-# Contributing to [INSERT YOUR PROJECT NAME]
+# Contributing Guide
 
 Thanks for taking the time to consider contributing! We very much appreciate your time and effort. This document outlines the many ways you can contribute to our project, and provides detailed guidance on best practices. We look forward to your help!
 
 ## Prerequisites
 
 Before you begin contributing to our project, it'll be a good idea to ensure you've satisfied the below pre-requisites. 
-
-### Developer Certificate of Origin (DCO)
-
-To accept your contributions for any kind of patch, you'll want to:
-1. Understand what a Developer Certificate of Origin is. See [this](https://wiki.linuxfoundation.org/dco) guide.
-2. Read and agree to the [terms](https://developercertificate.org) of the Developer Certificate of Origin.
-3. Remember to add your Sign-Off for each patch contribution you submit to our project via either:
-   1. By using the `-s` flag if using Git. See [these](https://git-scm.com/docs/git-commit#Documentation/git-commit.txt--s) instructions.
-   2. By including the following text in your patch contributions (i.e. pull requests)
-   ```
-   Signed-off-by: Full Name <email>
-   ``` 
-
-Reviewers reviewing your patch will look for the sign-off before deciding to accept your contribution.
 
 ### License
 
@@ -27,10 +13,6 @@ Our project has our licensing terms, including rules governing redistribution, d
 ### Code of Conduct
 
 Our Code of Conduct helps facilitate a positive interaction environment for everyone involved with the team, and provides guidance on what to do if you experience problematic behavior. Read more in our [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md), and make sure you agree to its terms. 
-
-### Governance Model
-
-Our Governance model helps outline our project's decision making and roles-based expectations. Read more in our [GOVERNANCE.md](GOVERNANCE.md). 
 
 ### Developer Environment
 
@@ -48,6 +30,15 @@ Before contributing changes to our project, it's a great idea to be familiar wit
 Our communication channels are:
 - [Issue tracking system]([INSERT LINK TO ISSUE TRACKING SYSTEM]) - a regularly monitored area to report issues with our software or propose changes
 - [Discussion board]([INSERT LINK TO DISCUSSION BOARD OR MAILING LIST]) - an permanently archived place to hold conversations related to our project, and to propose as well as show+tell topics to the contributor team. This resource can be searched for old discussions.
+- [INSERT ADDITIONAL COMMUNICATION CHANNELS FOR YOUR PROJECT, EX: SLACK, TWITTER, YOUTUBE, ETC.]
+
+### Communication Channels
+
+Before contributing changes to our project, it's a great idea to be familiar with our communication channels and to socialize your potential contributions to get feedback early. This will help give you context for your contributions, no matter their form.
+
+Our communication channels are:
+- [Issue tracking system]([INSERT LINK TO ISSUE TRACKING SYSTEM]) - a regularly monitored area to report issues with our software or propose changes
+- [Discussion board](INSERT LINK TO DISCUSSION BOARD OR MAILING LIST) - an permanently archived place to hold conversations related to our project, and to propose as well as show+tell topics to the contributor team. This resource can be searched for old discussions.
 - [INSERT ADDITIONAL COMMUNICATION CHANNELS FOR YOUR PROJECT, EX: SLACK, TWITTER, YOUTUBE, ETC.]
 
 ## Our Development Process
@@ -94,8 +85,6 @@ Issue #248 - Show an example commit message title
 This makes sure that tickets are updated on GitHub with references to commits that are related to them.
 
 Commit should always be atomic. Keep solutions isolated whenever possible. Filler commits such as "clean up white space" or "fix typo" should be merged together before making a pull request, and significant sub-feature branches should be [rebased](https://www.youtube.com/results?search_query=git+rebase) to preserve commit history. Please ensure your commit history is clean and meaningful!
-
-Additionally, remember to "Sign-Off" on your commits to align with our [Developer Certificate of Origin (DCO) policy](#developer-certificate-of-origin-dco). 
 
 ### Submit a Pull Request
 
@@ -299,7 +288,7 @@ Additionally, take a look at Google's recommendations on [inline code documentat
 
 #### Media
 
-Media, such as images, videos, sound files, etc., are an excellent way to explain documentation to a wider audience more easily. Include media in your contributions as often as possible.
+Media, such as such as images, videos, sound files, etc., are an excellent way to explain documentation to a wider audience more easily. Include media in your contributions as often as possible.
 
 When including media into our version-control system, it is recommended to use formats such as:
 - Diagrams: [Mermaid](https://mermaid-js.github.io/mermaid/#/) format
